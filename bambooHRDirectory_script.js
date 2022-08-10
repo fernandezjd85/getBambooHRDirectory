@@ -1,7 +1,7 @@
-var companyDomain = "XXXXX";
+var companyDomain = "XXXXX"; // replace XXXXX with you company domain
 
 var endpoint = "https://api.bamboohr.com/api/gateway.php/" + companyDomain + "/v1/employees/directory";
-var authString = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+var authString = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // Replace XXXX with the authString generated on documentation website.
 
 function getBambooHRDirectory() 
 {
