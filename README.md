@@ -1,7 +1,7 @@
 # getBambooHRDirectory
 ## Google Sheets Script to request Company Open Directory to bamboohr
 
-gSheet script to get BambooHR open directory.
+gSheet script to get BambooHR open directory (macro).
 It's a simple script to pull all the company directories and flush them into a spreadsheet.
 
 ### Instructions
