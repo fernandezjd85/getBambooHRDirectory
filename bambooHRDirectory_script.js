@@ -6,7 +6,7 @@ var authString = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 function getBambooHRDirectory() 
 {
   var sheet = SpreadsheetApp.getActiveSheet();
-  var img_size = 60;
+  var img_size = 60; // Parameter image size in pixels, examples : 120, 80, 60
 
   var options = {
     'method' : 'get',
